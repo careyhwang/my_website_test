@@ -7,9 +7,9 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    #subtitle: |-
-    #  A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-    #  AND RELEASED UNDER THE CREATIVE COMMONS.
+    subtitle: |-
+      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+      AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Hanrui Wang
   blog: {}
   contact:
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (086) 189-1655-7862
+      - phone: (44) 07529-153224
         title: Phone
   custom_css: []
   custom_js: []
