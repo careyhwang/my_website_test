@@ -7,9 +7,9 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS.
+    #subtitle: |-
+    #  A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
+    #  AND RELEASED UNDER THE CREATIVE COMMONS.
     title: Hi, my name is Hanrui Wang
   blog: {}
   contact:
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Hanrui Wang
     enable: yes
     quicklinks:
       - alt: HTML5 UP
